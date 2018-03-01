@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">BucharestGuide</string>
+
+    <string name="restaurants">"Restaurants"</string>
+    <string name="entertainment">"Amusement"</string>
+    <string name="culture">"Culture"</string>
+    <string name="parks">"Parks"</string>
+
+    <string name="sample_string">asda asd as da sa af g aga sasfsafas fsafsafaasda asd as da sa af g aga sasfsafas fsafsafaasda asd as da sa af g aga sasfsafas fsafsafaasda asd as da sa af g aga sasfsafas fsafsafaasda asd as da sa af g aga sasfsafas fsafsafaasda asd as da sa af g aga sasfsafas fsafsafaasda asd as da sa af g aga sasfsafas fsafsafaasda asd as da sa af g aga sasfsafas fsafsafaasda asd as da sa af g aga sasfsafas fsafsafaasda asd as da sa af g aga sasfsafas fsafsafaasda asd as da sa af g aga sasfsafas fsafsafaasda asd as da sa af g aga sasfsafas fsafsafaasda asd as da sa af g aga sasfsafas fsafsafaasda asd as da sa af g aga sasfsafas fsafsafa</string>
+    <!-- RESTAURANTS DATA -->
+    <string name="restaurant_1_name">Caju</string>
+    <string name="restaurant_2_name">Pow wow</string>
+    <string name="restaurant_3_name">Megoo</string>
+    <string name="restaurant_4_name">Atelierul de Tarte</string>
+    <string name="restaurant_5_name">Ribs</string>
+    <string name="restaurant_6_name">Temple pub</string>
+    <string name="restaurant_7_name">Britannia</string>
+    <string name="restaurant_8_name">Joben</string>
+    <string name="restaurant_9_name">Upstairs rooftop</string>
+    <string name="restaurant_10_name">Bocca Lupo</string>
+
+    <string name="restaurant_1_address"><u>Nicolae Golescu 16, București 030167</u></string>
+    <string name="restaurant_2_address">Calea Victoriei 102-108, București 010091</string>
+    <string name="restaurant_3_address">Barbu Văcărescu 241A, București 020276</string>
+    <string name="restaurant_4_address">Ion Mihalache 20, București 011171</string>
+    <string name="restaurant_5_address">13 Constantin Brancusi St | Complex Potcoava, Bucharest 030424</string>
+    <string name="restaurant_6_address">Bulevardul Mărășești 71-73, București</string>
+    <string name="restaurant_7_address">Petre Ispirescu 9B, București 051021</string>
+    <string name="restaurant_8_address">Șelari 16, București 030167</string>
+    <string name="restaurant_9_address">Sevastopol 24, București 010922</string>
+    <string name="restaurant_10_address">Doctor Joseph Lister, no. 1, sector 5, Bucharest 050541</string>
+
+    <string name="restaurant_1_phone">0751 144 545</string>
+    <string name="restaurant_2_phone">0743 605 039</string>
+    <string name="restaurant_3_phone">0741 217 217</string>
+    <string name="restaurant_4_phone">0756 141 688</string>
+    <string name="restaurant_5_phone">0720 788 818</string>
+    <string name="restaurant_6_phone">0799 730 730</string>
+    <string name="restaurant_7_phone">0725 998 899</string>
+    <string name="restaurant_8_phone">0733 088 308</string>
+    <string name="restaurant_9_phone">0723 307 930</string>
+    <string name="restaurant_10_phone">031 405 0050</string>
+
+    <string name="restaurant_1_description">The concept of CAJU by Joseph Hadad brasserie is casual dining, with affordable price dishes, which caters to different levels of customers.</string>
+    <string name="restaurant_2_description">Clean, bright and modern setting with comfortable seating either inside or out on their balcony. Small menu but with plenty of choice for most tastes.</string>
+    <string name="restaurant_3_description">ONLY THE BEST FOOD, THE BEST MUSICIANS, THE BEST GUESTS. May it be with a glass of wine, watching one charming sunset. May it be with one of our special made desserts.</string>
+    <string name="restaurant_4_description">A small and cozy place with delicious food and drinks (one of the best I\'ve had so far). The hosts are very friendly and careful so you can have a great time in their company.</string>
+    <string name="restaurant_5_description">Really recommend the place if you wanna have a good time with fiends or family. I have ordered the Saint Louis (hope i got the name right) Ribs and they were great.</string>
+    <string name="restaurant_6_description">This place is a true gem. Located in the center of Bucharest, it\'s easy to reach and a very pleasant restaurant, for both business and private events (I was there with some friends, but it\'s cozy and elegant, so it would work as well for small parties or business meals).</string>
+    <string name="restaurant_7_description">The Waiters are slow when they have to take your order but, the order come quick and the check as well. Nice atmosphere the waiter smile missing</string>
+    <string name="restaurant_8_description">We were surprised to find this place while wandering around old town. Excellent space with really good music, friendly staff, amazing cocktails and just an easy place to spend some time and eat/drink something.</string>
+    <string name="restaurant_9_description">A nice restaurant, on the top floor of a building in the area between Gara de Nord and Victoriei Square. Nice view and terrace, especially in the summer. Interesting menu, food is pretty good. They have lunch menus that are ok for business lunches.</string>
+    <string name="restaurant_10_description">The food is very good and the place it is very nice. You can have several features that remind Italy. The place is clean and silent, being located near the center of Bucharest.</string>
+
+    <!-- ENTERTAINMENT DATA -->
+    <string name="entertainment_1_name">Therme</string>
+    <string name="entertainment_2_name">Divertiland Water Park</string>
+    <string name="entertainment_3_name">Edenland Adventure Park</string>
+    <string name="entertainment_4_name">The Museum of senses</string>
+    <string name="entertainment_5_name">City bus tour</string>
+
+    <string name="entertainment_1_description">The biggest wellness, relaxation and entertainment center in Europe. Located North of Bucharest, just 10 minutes away from the city, Therme București is a wellness concept for a modern lifestyle, dedicated to your well-being.</string>
+    <string name="entertainment_2_description">Biggest aqua park in Romania Unique features, such as the slides variety, wave pool, sandy beach, private pavilions, changing rooms with showers and lockers,etc.</string>
+    <string name="entertainment_3_description">Edenland Park represents the ideal destination for adventure in nature, relaxation and fun with family or friends.</string>
+    <string name="entertainment_4_description">The MUSEUM of SENSES is home to an experience that will awaken your senses and inspire you to discover more and, therefore, to feel more.</string>
+    <string name="entertainment_5_description">The tourist bus line (during spring-autumn) is comprised of 4 special sightseeing busses (with open rooftop), each with a capacity of 77 seats, which run on the following route: Piaţa Presei, Muzeul Satului, Arcul de Triumf, Piaţa Victoriei</string>
+
+    <string name="entertainment_1_address">Calea Bucuresti 1k, Balotesti 077015</string>
+    <string name="entertainment_2_address">Strada Divertismentului, nr. 1, Autostrada Bucuresti-Pitesti, 077040</string>
+    <string name="entertainment_3_address">Strada Cantonului 12, Balotesti 077015</string>
+    <string name="entertainment_4_address">AFI Cotroceni, Bulevardul General Vasile Milea 4, București 061344</string>
+    <string name="entertainment_5_address">Piata Victoriei</string>
+
+    <string name="entertainment_1_phone">031 109 0199</string>
+    <string name="entertainment_2_phone">021 9446</string>
+    <string name="entertainment_3_phone">0733 365 263</string>
+    <string name="entertainment_4_phone">0757 070 073</string>
+    <string name="entertainment_5_phone">-</string>
+
+    <!-- CULTURE DATA -->
+    <string name="culture_1_name">Casa Poporului</string>
+    <string name="culture_2_name">Muzeul Satului</string>
+    <string name="culture_3_name">Arcul de Triumf</string>
+    <string name="culture_4_name">Ateneul roman</string>
+    <string name="culture_5_name">Cărturești Carusel Bookstore</string>
+
+    <string name="culture_1_description">A colossal parliament building known for its ornate interior composed of 23 sections, it houses the Senate and the Chamber of Deputies, three museums and an international conference center.</string>
+    <string name="culture_2_description">The Village Museum (Muzeul Satului in Romanian) is an open-air ethnographic museum located in the Herăstrău Park (Bucharest, Romania), showcasing traditional Romanian village life.</string>
+    <string name="culture_3_description">The first, wooden, triumphal arch was built hurriedly, after Romania gained its independence (1878), so that the victorious troops could march under it.</string>
+    <string name="culture_4_description">The Romanian Athenaeum (Romanian: Ateneul Român) is a concert hall in the center of Bucharest, Romania and a landmark of the Romanian capital city.</string>
+    <string name="culture_5_description">The building that currently houses the bookstore was built at the beginning of the 20th century by the Chrissoveloni bankers family. During the first few decades of its existence the building housed the Chrissoveloni Bank headquarters, and afterwards it became a general store.</string>
+
+    <string name="culture_1_address">Strada Izvor 2-4, București</string>
+    <string name="culture_2_address">Pavel Dimitrievici Kiseleff, sector 1 28-30, București 011347</string>
+    <string name="culture_3_address">Piața Arcul de Triumf, București</string>
+    <string name="culture_4_address">Benjamin Franklin 1-3, București 030167</string>
+    <string name="culture_5_address">Lipscani 55, București 030033</string>
+
+    <string name="culture_1_phone">0733 558 102</string>
+    <string name="culture_2_phone">021 317 9103</string>
+    <string name="culture_3_phone">-</string>
+    <string name="culture_4_phone">-</string>
+    <string name="culture_5_phone">0728 828 922</string>
+
+    <!-- PARKS DATA -->
+    <string name="park_1_name">Cismigiu</string>
+    <string name="park_2_name">Regele Mihai I</string>
+    <string name="park_3_name">Carol I</string>
+    <string name="park_4_name">Tineretului</string>
+    <string name="park_5_name">IOR</string>
+    <string name="park_6_name">Mogosoaia</string>
+    <string name="park_7_name">Moghioros</string>
+    <string name="park_8_name">Circului</string>
+    <string name="park_1_address">Bulevardul Regina Elisabeta, București 030167</string>
+    <string name="park_2_address">Parcul Herastrau</string>
+    <string name="park_3_address">Bulevardul Mărășești, București</string>
+    <string name="park_4_address">Parcul Tineretului</string>
+    <string name="park_5_address">Parcul IOR</string>
+    <string name="park_6_address">Parcul Mogosoaia</string>
+    <string name="park_7_address">Parcul Moghioros</string>
+    <string name="park_8_address">Parcul Circului</string>
+    <string name="park_1_phone">021 224 5860</string>
+    <string name="park_2_phone">021 224 5860</string>
+    <string name="park_3_phone">021 224 5860</string>
+    <string name="park_4_phone">021 224 5860</string>
+    <string name="park_5_phone">021 224 5860</string>
+    <string name="park_6_phone">021 224 5860</string>
+    <string name="park_7_phone">021 224 5860</string>
+    <string name="park_8_phone">021 224 5860</string>
+    <string name="park_1_description">The Cișmigiu Gardens or Cișmigiu Park (Romanian: Grădinile Cișmigiu or Parcul Cișmigiu) are a public park near the center of Bucharest, Romania, spanning areas on all sides of an artificial lake.</string>
+    <string name="park_2_description">The park was initially intended to be called Parcul Național, but it was renamed Parcul Carol II during the period of the Carol II of Romania's personality cult. Following World War II, it was renamed Parcul I. V. Stalin, featuring a statue of Stalin at its entrance. The park was renamed and the statue was torn down in 1956 as part of the De-Stalinization in Romania.</string>
+    <string name="park_3_description">Carol Park (Romanian: Parcul Carol) is a public park in Bucharest, Romania, named after King Carol I of Romania. A French garden located in the southern-central area of Bucharest, partly on Filaret hill,[1] originally capable of hosting various exhibitions, it suffered considerable modifications during the communist regime, including a name change to Parcul Libertății (Liberty Park).</string>
+    <string name="park_4_description">Aside from green areas, the park contains a number of playgrounds as well as a navigable lake, utilised by leisure boats in summer. Tineretului Park contains the Sala Polivalentă, one of Bucharest's largest multi-purpose halls, used for concerts and indoor sporting events.</string>
+    <string name="park_5_description">Oh Alexandru Ioan, where would I be without you, the cleanliness of the park and the utter beauty, what a gem in the middle of sector 3. Excellent for walking, biking, people watching, and jogging.</string>
+    <string name="park_6_description">Mogoșoaia Palace (in Romanian: Palatul Mogoșoaia, pronounced [paˈlatul moɡoˈʃo̯aja]) is situated about 10 kilometres from Bucharest, Romania. It was built between 1698-1702 by Constantin Brâncoveanu in what is called the Romanian Renaissance style or Brâncovenesc style. The palace bears the name of the widow of the Romanian boyar Mogoș, who owned the land it was built on</string>
+    <string name="park_7_description">A small park in the West Side of Bucharest, Drumul Taberei neighborhood. From 2015 it has a new look, lookin' modern than the older one. It is located in a green neighborhood, Drumul Taberei, in the District 6 of Bucharest.</string>
+    <string name="park_8_description">This is one of the few wonderful natural parks of Bucharest, with a natural created lake in the middle. You can have a nice long walk anytime during the year. Particularly during the summer this is the only place where you can admire the Nile Lotus.</string>
+    <string name="details_phone">Phone:</string>
+    <string name="details_address">Address:</string>
+
+
+</resources>

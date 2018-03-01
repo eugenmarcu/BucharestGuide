@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- IMAGE -->
+        <ImageView
+            android:id="@+id/details_image_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            tools:src="@drawable/culture_casa_poporului" />
+
+        <!-- DESCRIPTION -->
+        <TextView
+            android:id="@+id/details_description_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="8dp"
+            tools:text="@string/sample_string" />
+
+        <!-- ADDRESS -->
+        <LinearLayout
+            android:id="@+id/details_layout_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/details_address" />
+
+            <TextView
+                android:id="@+id/details_address_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/holo_blue_dark"
+                tools:text="13 Calea Victioriei, Bucuresti" />
+        </LinearLayout>
+
+        <!-- PHONE -->
+        <LinearLayout
+            android:id="@+id/details_layout_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/details_phone" />
+
+            <TextView
+                android:id="@+id/details_phone_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:textColor="@android:color/holo_blue_dark"
+                tools:text="0745333444" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>
